@@ -51,19 +51,17 @@
 
 
 <table width="200" border="1">
-      <tr>
-        <td>Hiren-branch Test Hiren</td>
-        <td>Hiren-branch Test Hiren</td>
-        <td>Hiren-branch Test Hiren</td>
-      </tr>
-      <tr>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr>
-    </table>
-
-
+  <tr>
+    <td>Hiren-branch Test Hiren</td>
+    <td>Hiren-branch Test Hiren</td>
+    <td>Hiren-branch Test Hiren</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
 
 </body>
 </html>
