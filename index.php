@@ -37,9 +37,15 @@
 
 <table width="200" border="1">
       <tr>
+
         <td>Master test sonule</td>
          <td>Master test sonule</td>
          <td>Master test sonule</td>
+
+        <td>Master Test Hiren</td>
+        <td>Master Test Hiren</td>
+        <td>Master Test Hiren</td>
+
       </tr>
       <tr>
         <td>&nbsp;</td>
